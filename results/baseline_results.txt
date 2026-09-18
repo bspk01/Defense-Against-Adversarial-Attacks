@@ -1,0 +1,6 @@
+=== Baseline Summary ===
+Standard model          : Clean=88.77%, Robust=0.30%
+PGD-AT model            : Clean=73.34%, Robust=71.20%
+Pruned (50% + std FT)   : Clean=88.33%, Robust=1.98%
+Pruned (50% + adv FT)   : Clean=71.06%, Robust=67.91%
+Ensemble (3 pruned+adv) : Clean=71.12%, Robust=67.76%
