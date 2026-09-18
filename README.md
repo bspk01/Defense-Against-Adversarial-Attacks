@@ -83,5 +83,6 @@ Technologies
 
 Technical Report
 The detailed methodology, experiments, ablation studies, results, limitations, and future directions are available in:
+```
 report/CV_PROJECT.pdf
 ```
