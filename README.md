@@ -1,5 +1,3 @@
-# Defense-Against-Adversarial-Attacks
-
 # Defense Against Adversarial Attacks on Image Recognition
 
 An adversarially robust image classification framework that combines PGD-based adversarial training, Exponential Particle Swarm Optimization (ExPSO) for structured pruning, Gumbel-Softmax Stochastic Multi-Expert (SME) routing, and Multi-Version Compressed Neural Network Training (MVC-NNT).
