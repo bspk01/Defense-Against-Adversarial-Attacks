@@ -48,7 +48,7 @@ ExPSO-Guided Structured Pruning
                 │
                 ▼
    FGSM / PGD-20 / PGD-100 / AutoAttack
-
+```
 Experimental Results
 Model	Clean Accuracy	FGSM	PGD-20	PGD-100	AutoAttack	Sparsity
 ExPSO-30	71.46%	45.05%	39.28%	39.04%	34.90%	30.3%
@@ -80,3 +80,8 @@ Technologies
 - Adversarial Training
 - Exponential Particle Swarm Optimization
 - Gumbel-Softmax
+
+Technical Report
+The detailed methodology, experiments, ablation studies, results, limitations, and future directions are available in:
+report/CV_PROJECT.pdf
+```
